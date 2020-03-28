@@ -1,0 +1,27 @@
+{
+  "name": "atie-ui-doc",
+  "version": "1.0.0",
+  "description": "about atie-ui",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "atie-ui": "^0.1.7",
+    "core-js": "^2.6.11",
+    "element-ui": "^2.13.0",
+    "highlight.js": "^9.18.1",
+    "node-sass": "^4.13.1",
+    "sass-loader": "^8.0.2",
+    "vuepress": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
