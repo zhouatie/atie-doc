@@ -1,13 +1,13 @@
 {
   "name": "atie-ui-doc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "about atie-ui",
   "main": "index.js",
   "directories": {
     "doc": "docs"
   },
   "dependencies": {
-    "atie-ui": "^0.1.7",
+    "atie-ui": "^0.2.1",
     "core-js": "^2.6.11",
     "element-ui": "^2.13.0",
     "highlight.js": "^9.18.1",

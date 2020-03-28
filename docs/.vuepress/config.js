@@ -3,7 +3,7 @@ module.exports = {
   description: '关于前端', //描述
   dest: './build', // 设置输出目录
   port: 7777, //端口
-  base: '/atie-doc',
+  base: '/atie-doc/',
   themeConfig: {
     //主题配置
     nav: [
