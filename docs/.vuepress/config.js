@@ -25,7 +25,7 @@ module.exports = {
       },
       {
         text: '我的博客',
-        link: 'https://segmentfault.com/blog/zhouatie'
+        link: 'https://zhouatie.github.io/blog/'
       },
       {
         text: '规划',
