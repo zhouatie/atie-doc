@@ -20,7 +20,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "deploy": "sh ./deploy.sh"
+    "deploy": "sh ./deploy.sh",
+    "cp": "rm -rf /usr/local/etc/nginx/servers/mysite/* && cp -r ./build /usr/local/etc/nginx/servers/mysite/"
   },
   "keywords": [],
   "author": "",
