@@ -10,7 +10,7 @@
     "atie-ui": "^0.2.2",
     "core-js": "^2.6.11",
     "element-ui": "^2.13.0",
-    "highlight.js": "^9.18.1",
+    "highlight.js": "^10.1.2",
     "node-sass": "^4.13.1",
     "sass-loader": "^8.0.2",
     "vuepress": "^1.4.0"
